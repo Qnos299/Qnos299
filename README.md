@@ -1,16 +1,73 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https:/oxyde-team.cf">Qnos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
 
-<!--
-**Qnos299/Qnos299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Qnos | 💻 Rust gamer | 🛸 Europe <img 
+</div>
+
+
+
+
+ 
+ <h5 align="center">
+   <i>⚡️If you don`t play rust u gay⚡️</i>
+  </h5>
+ 
+ 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
+<p align="center">
+  <h3> I`m the best gamer from my room</h3>
+</p>
+
+ - 🥀 Learning Python 
+
+ - 🛸 I love games like Firewatch
+ 
+ - 😎 Search me on Steam
+
+ - 🐱‍👤 [My site](https://qnos.me/)
+  
+ - 👽 oxyde-team.cf 
+ <p align="center">
+  <h4> Rust | CS:GO | Sea of thieves </h4>
+   </p>
+
+<!--  -->
+
+
+
+</p>
+
+<br />
+
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+
+
+
+ 
+   
+<br />
+
+<h1 align='center'>⚡️<i>Stay safe!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
