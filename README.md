@@ -58,7 +58,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://lobobot.com/box/token/idICqa0STQdIWoT" />
 
 
  
